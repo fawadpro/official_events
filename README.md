@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Re-Vents is a calendar-based resource which can be used to notify users of upcoming occasions. Events can be created by anyone, and can be open to anyone or private. 
 ## Available Scripts
 
 In the project directory, you can run:
